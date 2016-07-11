@@ -90,6 +90,8 @@ Information about performances of this work would be really appreciated.
 
 [Matt Munz](https://github.com/mattmunz)
 
-[1]: [Wikipedia: Scientific pitch notation](https://en.wikipedia.org/wiki/Scientific_pitch_notation)
-[2]: [MuseScore](https://musescore.org)
+-------------------------
+
+1) [Wikipedia: Scientific pitch notation](https://en.wikipedia.org/wiki/Scientific_pitch_notation)
+2) [MuseScore](https://musescore.org)
 
