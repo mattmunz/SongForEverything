@@ -53,7 +53,7 @@ Try to record information about each performance, especially who played what not
 ## Explanations/Elaborations/Notes
 
 * The simplest version of the song is a moment of silence.
-* For example, some versions of the song might include [silence], [silence, A4, G4], and [silence, C5, C5, C5, F4]. [^1]
+* For example, some versions of the song might include [silence], [silence, A4, G4], and [silence, C5, C5, C5, F4].<sup>1</sup>
 * Motivations: Here are some of the questions I'm trying to answer through this composition.
   * Can you create a piece of performance music...
      * As a simple song that anyone can perform?
@@ -78,7 +78,7 @@ This composition is a draft. Constructive comments and suggestions are welcome (
 ## TODO
 
 * This page is long and should be refactored.
-* Encode the score using software like MuseScore. [^2]
+* Encode the score using software like MuseScore. <sup>2</sup>
 * "In community" -- is that good english? Does it make sense?
 
 ## Contact
@@ -90,6 +90,6 @@ Information about performances of this work would be really appreciated.
 
 [Matt Munz](https://github.com/mattmunz)
 
-[^1]: [Wikipedia: Scientific pitch notation](https://en.wikipedia.org/wiki/Scientific_pitch_notation)
-[^2]: [MuseScore](https://musescore.org)
+[1]: [Wikipedia: Scientific pitch notation](https://en.wikipedia.org/wiki/Scientific_pitch_notation)
+[2]: [MuseScore](https://musescore.org)
 
